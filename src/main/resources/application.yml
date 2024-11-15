@@ -1,0 +1,4 @@
+micronaut:
+  function:
+    binary-types: 
+      additional-types: text/plain;charset=ISO-8859-1
